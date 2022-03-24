@@ -1,4 +1,5 @@
 # Test Upgrade
+This repo is for testing a chain upgrade on a single node local testnet
 
 ## Components
 
